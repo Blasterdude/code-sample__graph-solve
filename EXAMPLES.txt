@@ -1,0 +1,83 @@
+Example input and output:
+
+Input1:
+
+offset = 4 + random + 1
+location = 1 + origin + offset
+origin = 3   +  5
+random = 2
+kayleigh = 1 + 2 + 3 + 4
+tj = origin + 20
+will = 12342 + 342
+vars = random
+b = a
+a = 5
+tough = offset + location + origin + random
+zed = tough + location
+sole = 5
+
+Output1:
+
+Final results are:
+a = 5
+b = 5
+kayleigh = 10
+location = 16
+offset = 7
+origin = 8
+random = 2
+sole = 5
+tj = 28
+tough = 33
+vars = 2
+will = 12684
+zed = 49
+
+input2:
+
+offset = 4 + random + 1
+location = 1 + origin + offset
+origin = 3     + 5
+random = 2
+
+output2:
+
+Final results are:
+location = 16
+offset = 7
+origin = 8
+random = 2
+
+input3:
+
+zero = five four
+two = five
+three = two
+one = three four
+five = 5
+four = 4
+
+output3:
+
+Final results are:
+five = 5
+four = 4
+one = 9
+three = 5
+two = 5
+zero = 9
+
+input4:
+
+a = 4 + d + 1
+b = 1 + c + a
+c = 3     + 5
+d = 2
+
+output4:
+
+a = 7
+b = 16
+c = 8
+d = 2
+
